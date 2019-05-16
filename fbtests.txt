@@ -1,0 +1,1978 @@
+Array
+(
+    [phone_number] => +798946548020
+    [ad_id] => 21579224375820150
+    [form_id] => 574601735042061
+    [gender] => posu
+    [id] => 461897490576789
+    [raw] => Array
+        (
+            [phone_number] => +745397178090
+            [gender] => beve
+            [email] => isape_uzdvyhu13@xajnior.zan
+            [full_name] => Iryta Aq-Mcifi
+        )
+
+    [full_name] => Esuxu Ec-Gbyho
+    [created_time] => 2018-03-19T15:33:36+00:00
+    [email] => ugydo_isfdexy39@cykfayz.wic
+)
+Array
+(
+    [ad_id] => 
+    [form_id] => 
+    [ad_name] => 
+    [adset_id] => 
+    [campaign_id] => 
+    [email] => joedoe@example.com
+    [platform] => 
+    [full_name] => Fake Lead
+    [created_time] => 2016-01-01T00:00:00+0000
+    [campaign_name] => 
+    [id] => 123456782016368
+    [Fake Lead] => This fake lead only contains the most basic answers to default questions, create a test lead to see any additional answers you may have requested!
+    [adset_name] => 
+)
+Array
+(
+    [phone_number] => +79260659050
+    [ad_id] => 6117571500885
+    [form_id] => 182715645763861
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => 
+            [full_name] => 
+        )
+
+    [full_name] => rusikoproduction
+    [created_time] => 2019-02-11T11:29:20+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 309739489728142
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +789150888021
+    [ad_id] => 6117571500885
+    [form_id] => 182715645763861
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => 
+            [full_name] => 
+        )
+
+    [full_name] => Olga Larina
+    [created_time] => 2019-02-12T17:44:21+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 310281149673976
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79647849005
+    [ad_id] => 6117571500885
+    [form_id] => 182715645763861
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => 
+            [full_name] => 
+        )
+
+    [full_name] => Denis Berlin
+    [created_time] => 2019-02-13T15:21:55+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 310666662968758
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => <test lead: dummy data for phone_number>
+    [ad_id] => 0
+    [form_id] => 651772262322596
+    [created_time] => 2019-02-13T18:21:57+0000
+    [raw] => Array
+        (
+            [phone_number] => <test lead: dummy data for phone_number>
+            [services] => УТ
+            [full_name] => <test lead: dummy data for full_name>
+        )
+
+    [full_name] => <test lead: dummy data for full_name>
+    [services] => УТ
+    [id] => 651772812322541
+)
+Array
+(
+    [phone_number] => +79851615103
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79851615103
+            [services] => УТ
+            [full_name] => Елена Скоромная
+        )
+
+    [services] => УТ
+    [full_name] => Елена Скоромная
+    [created_time] => 2019-02-14T05:52:41+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 652041482295674
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79250638641
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79250638641
+            [services] => УТ
+            [full_name] => Светлана Узун
+        )
+
+    [services] => УТ
+    [full_name] => Светлана Узун
+    [created_time] => 2019-02-19T08:21:43+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 654934972006325
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79636266676
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79636266676
+            [services] => УТ
+            [full_name] => 𝕬𝖓𝖆𝖘𝖙𝖆𝖘𝖎𝖆
+        )
+
+    [services] => УТ
+    [full_name] => 𝕬𝖓𝖆𝖘𝖙𝖆𝖘𝖎𝖆
+    [created_time] => 2019-02-19T13:50:02+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655065171993305
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79646472154
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79646472154
+            [services] => УТ
+            [full_name] => Кутузов Юрий
+        )
+
+    [services] => УТ
+    [full_name] => Кутузов Юрий
+    [created_time] => 2019-02-19T15:16:06+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655102981989524
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79265521936
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79265521936
+            [services] => УТ
+            [full_name] => Евгения Большакова
+        )
+
+    [services] => УТ
+    [full_name] => Евгения Большакова
+    [created_time] => 2019-02-19T15:24:09+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655106161989206
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79256068353
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79256068353
+            [services] => УТ
+            [full_name] => Елена Скоробогатова
+        )
+
+    [services] => УТ
+    [full_name] => Елена Скоробогатова
+    [created_time] => 2019-02-19T18:52:39+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655191848647304
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79031310442
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79031310442
+            [services] => УТ
+            [full_name] => Марина Морозова
+        )
+
+    [services] => УТ
+    [full_name] => Марина Морозова
+    [created_time] => 2019-02-19T23:26:34+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655281928638296
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +789055604221
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +789055604221
+            [services] => УТ
+            [full_name] => Наталья Лищинская
+        )
+
+    [services] => УТ
+    [full_name] => Наталья Лищинская
+    [created_time] => 2019-02-20T15:53:05+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655644368602052
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79623779993
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79623779993
+            [services] => УТ
+            [full_name] => ***
+        )
+
+    [services] => УТ
+    [full_name] => ***
+    [created_time] => 2019-02-20T16:30:50+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 655659491933873
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79263685678
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79263685678
+            [services] => УТ
+            [full_name] => amaia_reutov
+        )
+
+    [services] => УТ
+    [full_name] => amaia_reutov
+    [created_time] => 2019-02-21T11:38:52+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656047498561739
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79367775177
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79367775177
+            [services] => УТ
+            [full_name] => Irina Komarova
+        )
+
+    [services] => УТ
+    [full_name] => Irina Komarova
+    [created_time] => 2019-02-22T11:05:29+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656596758506813
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79036785555
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79036785555
+            [services] => УТ
+            [full_name] => Екатерина Кальвейт
+        )
+
+    [services] => УТ
+    [full_name] => Екатерина Кальвейт
+    [created_time] => 2019-02-22T12:15:28+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656625428503946
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79162006833
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79162006833
+            [services] => УТ
+            [full_name] => Inga
+        )
+
+    [services] => УТ
+    [full_name] => Inga
+    [created_time] => 2019-02-22T13:05:58+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656650591834763
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79588183152
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79588183152
+            [services] => УТ
+            [full_name] => Andrey👤
+        )
+
+    [services] => УТ
+    [full_name] => Andrey👤
+    [created_time] => 2019-02-22T14:24:28+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656685558497933
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79061511399
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79061511399
+            [services] => УТ
+            [full_name] => Ekaterina Asabina
+        )
+
+    [services] => УТ
+    [full_name] => Ekaterina Asabina
+    [created_time] => 2019-02-22T15:38:38+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656721025161053
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79854250006
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79854250006
+            [services] => УТ
+            [full_name] => Moscow
+        )
+
+    [services] => УТ
+    [full_name] => Moscow
+    [created_time] => 2019-02-22T15:52:02+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 656726751827147
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79043638080
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79043638080
+            [services] => УТ
+            [full_name] => Александра Бибнева
+        )
+
+    [services] => УТ
+    [full_name] => Александра Бибнева
+    [created_time] => 2019-02-23T15:45:40+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 657266675106488
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +789151130113
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +789151130113
+            [services] => УТ
+            [full_name] => Сергей Турчанинов
+        )
+
+    [services] => УТ
+    [full_name] => Сергей Турчанинов
+    [created_time] => 2019-02-26T10:11:26+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 658708084962347
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79161710193
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79161710193
+            [services] => УТ
+            [full_name] => Aleksandra Karpeykina
+        )
+
+    [services] => УТ
+    [full_name] => Aleksandra Karpeykina
+    [created_time] => 2019-02-26T10:42:31+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 658717461628076
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79250868446
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79250868446
+            [services] => УТ
+            [full_name] => Elena Lukyanova
+        )
+
+    [services] => УТ
+    [full_name] => Elena Lukyanova
+    [created_time] => 2019-02-26T12:29:42+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 658763861623436
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79081308393
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79081308393
+            [services] => УТ
+            [full_name] => Максим
+        )
+
+    [services] => УТ
+    [full_name] => Максим
+    [created_time] => 2019-02-26T12:54:04+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 658773801622442
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79167736884
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79167736884
+            [services] => УТ
+            [full_name] => ANDRIANOVA.K
+        )
+
+    [services] => УТ
+    [full_name] => ANDRIANOVA.K
+    [created_time] => 2019-02-26T13:50:55+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 658803284952827
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79197630540
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79197630540
+            [services] => УТ
+            [full_name] => Виктория
+        )
+
+    [services] => УТ
+    [full_name] => Виктория
+    [created_time] => 2019-03-01T11:25:56+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 660335274799628
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79685844440
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79685844440
+            [services] => УТ
+            [full_name] => Александра
+        )
+
+    [services] => УТ
+    [full_name] => Александра
+    [created_time] => 2019-03-01T19:15:42+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 660545478111941
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79267770141
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79267770141
+            [services] => УТ
+            [full_name] => Gala Nekrasova
+        )
+
+    [services] => УТ
+    [full_name] => Gala Nekrasova
+    [created_time] => 2019-03-01T20:29:06+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 660572094775946
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79167282408
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79167282408
+            [services] => УТ
+            [full_name] => Andrey Chupin
+        )
+
+    [services] => УТ
+    [full_name] => Andrey Chupin
+    [created_time] => 2019-03-02T08:34:14+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 660840348082454
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79652051515
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79652051515
+            [services] => УТ
+            [full_name] => Anatoly  Popkov
+        )
+
+    [services] => УТ
+    [full_name] => Anatoly  Popkov
+    [created_time] => 2019-03-02T13:18:49+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 660950291404793
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +789032179779
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => Новый фитнес-клуб BIOSPHERE - Генерация лидов
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +789032179779
+            [services] => УТ
+            [full_name] => Ляля Уткина
+        )
+
+    [services] => УТ
+    [full_name] => Ляля Уткина
+    [created_time] => 2019-03-02T14:36:41+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 660983968068092
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79639633113
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79639633113
+            [services] => УТ
+            [full_name] => Ekaterina_Klyuch
+        )
+
+    [services] => УТ
+    [full_name] => Ekaterina_Klyuch
+    [created_time] => 2019-03-03T21:00:54+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 661669931332829
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79779170487
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79779170487
+            [services] => УТ
+            [full_name] => melsmelsovihc
+        )
+
+    [services] => УТ
+    [full_name] => melsmelsovihc
+    [created_time] => 2019-03-04T02:13:08+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 661760637990425
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79161622970
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79161622970
+            [services] => УТ
+            [full_name] => Роман Зленко
+        )
+
+    [services] => УТ
+    [full_name] => Роман Зленко
+    [created_time] => 2019-03-04T06:18:32+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 661838787982610
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79686298031
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79686298031
+            [services] => УТ
+            [full_name] => Catharina Pirata 🖤
+        )
+
+    [services] => УТ
+    [full_name] => Catharina Pirata 🖤
+    [created_time] => 2019-03-04T08:57:09+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 661888901310932
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79688889653
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79688889653
+            [services] => УТ
+            [full_name] => Александр
+        )
+
+    [services] => УТ
+    [full_name] => Александр
+    [created_time] => 2019-03-05T09:51:49+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 662401864592969
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79268276744
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79268276744
+            [services] => УТ
+            [full_name] => 😈
+        )
+
+    [services] => УТ
+    [full_name] => 😈
+    [created_time] => 2019-03-05T12:26:55+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 662454314587724
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79646318121
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79646318121
+            [services] => УТ
+            [full_name] => Стрижка Йорка на дому Москва .
+        )
+
+    [services] => УТ
+    [full_name] => Стрижка Йорка на дому Москва .
+    [created_time] => 2019-03-05T18:58:06+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 662622537904235
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79169959492
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79169959492
+            [services] => УТ
+            [full_name] => Юля Жукова
+        )
+
+    [services] => УТ
+    [full_name] => Юля Жукова
+    [created_time] => 2019-03-05T20:22:33+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 662649547901534
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79152379936
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79152379936
+            [services] => УТ
+            [full_name] => Дарина Доронина
+        )
+
+    [services] => УТ
+    [full_name] => Дарина Доронина
+    [created_time] => 2019-03-06T11:01:15+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 662949387871550
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79680099799
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79680099799
+            [services] => УТ
+            [full_name] => Alexandra
+        )
+
+    [services] => УТ
+    [full_name] => Alexandra
+    [created_time] => 2019-03-06T23:09:02+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 663230911176731
+    [adset_name] => 22+
+)
+Array
+(
+    [phone_number] => +79036610773
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79036610773
+            [services] => УТ
+            [full_name] => Igrik & Masya
+        )
+
+    [services] => УТ
+    [full_name] => Igrik & Masya
+    [created_time] => 2019-03-08T16:54:17+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664143007752188
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79269834220
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79269834220
+            [services] => УТ
+            [full_name] => Алена
+        )
+
+    [services] => УТ
+    [full_name] => Алена
+    [created_time] => 2019-03-13T03:53:36+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 666404920859330
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => 89253140294
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => 89253140294
+            [services] => УТ
+            [full_name] => Анастасия
+        )
+
+    [services] => УТ
+    [full_name] => Анастасия
+    [created_time] => 2019-03-09T20:29:55+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664738961025926
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79858484202
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79858484202
+            [services] => УТ
+            [full_name] => S O F I
+        )
+
+    [services] => УТ
+    [full_name] => S O F I
+    [created_time] => 2019-03-12T03:56:40+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 665891114244044
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79264211266
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79264211266
+            [services] => УТ
+            [full_name] => Виктория
+        )
+
+    [services] => УТ
+    [full_name] => Виктория
+    [created_time] => 2019-03-13T04:18:18+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 666411370858685
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79644155674
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79644155674
+            [services] => УТ
+            [full_name] => Тимур
+        )
+
+    [services] => УТ
+    [full_name] => Тимур
+    [created_time] => 2019-03-08T22:02:53+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664248684408287
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79771324042
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79771324042
+            [services] => УТ
+            [full_name] => 𝕄𝕒𝕩𝕚𝕞_𝕄𝕒𝕝𝕖𝕓
+        )
+
+    [services] => УТ
+    [full_name] => 𝕄𝕒𝕩𝕚𝕞_𝕄𝕒𝕝𝕖𝕓
+    [created_time] => 2019-03-09T02:38:31+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664333877733101
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79177439904
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79177439904
+            [services] => УТ
+            [full_name] => Рустам
+        )
+
+    [services] => УТ
+    [full_name] => Рустам
+    [created_time] => 2019-03-08T23:10:32+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664268604406295
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79684281903
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79684281903
+            [services] => УТ
+            [full_name] => Eva Shamilina
+        )
+
+    [services] => УТ
+    [full_name] => Eva Shamilina
+    [created_time] => 2019-03-09T10:06:43+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664481247718364
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79997184501
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79997184501
+            [services] => УТ
+            [full_name] => Вячеслав Витальевич
+        )
+
+    [services] => УТ
+    [full_name] => Вячеслав Витальевич
+    [created_time] => 2019-03-15T01:34:03+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 667286587437830
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79264410476
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79264410476
+            [services] => УТ
+            [full_name] => Аянбек Анарбаев
+        )
+
+    [services] => УТ
+    [full_name] => Аянбек Анарбаев
+    [created_time] => 2019-03-14T10:07:29+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 666949694138186
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79636214439
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79636214439
+            [services] => УТ
+            [full_name] => Julime
+        )
+
+    [services] => УТ
+    [full_name] => Julime
+    [created_time] => 2019-03-10T10:39:51+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 665025960997226
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79998029166
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79998029166
+            [services] => УТ
+            [full_name] => Черниченко Анжелика
+        )
+
+    [services] => УТ
+    [full_name] => Черниченко Анжелика
+    [created_time] => 2019-03-14T21:44:53+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 667219864111169
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79254142737
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79254142737
+            [services] => УТ
+            [full_name] => Amir Rahmonov
+        )
+
+    [services] => УТ
+    [full_name] => Amir Rahmonov
+    [created_time] => 2019-03-08T16:32:05+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 664134574419698
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79092403000
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79092403000
+            [services] => УТ
+            [full_name] => Alexandra🐾
+        )
+
+    [services] => УТ
+    [full_name] => Alexandra🐾
+    [created_time] => 2019-03-11T21:21:12+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 665775040922318
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79160156486
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79160156486
+            [services] => УТ
+            [full_name] => Наталья
+        )
+
+    [services] => УТ
+    [full_name] => Наталья
+    [created_time] => 2019-03-15T08:11:44+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 667407930759029
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => 89263955550
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => 89263955550
+            [services] => УТ
+            [full_name] => Зинаида Саргсян
+        )
+
+    [services] => УТ
+    [full_name] => Зинаида Саргсян
+    [created_time] => 2019-03-15T12:58:42+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 667513447415144
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79250995080
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79250995080
+            [services] => УТ
+            [full_name] => А.М
+        )
+
+    [services] => УТ
+    [full_name] => А.М
+    [created_time] => 2019-03-15T13:15:32+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 667520580747764
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79258079077
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79258079077
+            [services] => УТ
+            [full_name] => Михаил Смирнов
+        )
+
+    [services] => УТ
+    [full_name] => Михаил Смирнов
+    [created_time] => 2019-03-15T17:35:50+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 667627357403753
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79250577741
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79250577741
+            [services] => УТ
+            [full_name] => Зырянов Александр Иннокентьевич
+        )
+
+    [services] => УТ
+    [full_name] => Зырянов Александр Иннокентьевич
+    [created_time] => 2019-03-16T20:21:41+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 668226520677170
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79037205703
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79037205703
+            [services] => УТ
+            [full_name] => Nikolay Vashenko
+        )
+
+    [services] => УТ
+    [full_name] => Nikolay Vashenko
+    [created_time] => 2019-03-18T07:40:46+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 668971807269308
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79857870754
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79857870754
+            [services] => УТ
+            [full_name] => Oleg  Titkov
+        )
+
+    [services] => УТ
+    [full_name] => Oleg  Titkov
+    [created_time] => 2019-03-18T15:11:35+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 669157527250736
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79859629955
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79859629955
+            [services] => УТ
+            [full_name] => Sonya
+        )
+
+    [services] => УТ
+    [full_name] => Sonya
+    [created_time] => 2019-03-18T17:18:04+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 669205533912602
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79670658575
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79670658575
+            [services] => УТ
+            [full_name] => Сергей Чернятьев Moscow
+        )
+
+    [services] => УТ
+    [full_name] => Сергей Чернятьев Moscow
+    [created_time] => 2019-03-18T18:01:19+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 669220797244409
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79670274400
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79670274400
+            [services] => УТ
+            [full_name] => Sel
+        )
+
+    [services] => УТ
+    [full_name] => Sel
+    [created_time] => 2019-03-19T19:39:32+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 669798907186598
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79378783837
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79378783837
+            [services] => УТ
+            [full_name] => Антон Горошников
+        )
+
+    [services] => УТ
+    [full_name] => Антон Горошников
+    [created_time] => 2019-03-20T02:21:09+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 669929863840169
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79255619399
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79255619399
+            [services] => УТ
+            [full_name] => Эльдар Джафаров
+        )
+
+    [services] => УТ
+    [full_name] => Эльдар Джафаров
+    [created_time] => 2019-03-20T07:16:50+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 670035080496314
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79066962458
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79066962458
+            [services] => УТ
+            [full_name] => Дарья
+        )
+
+    [services] => УТ
+    [full_name] => Дарья
+    [created_time] => 2019-03-20T10:26:56+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 670114263821729
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79261039263
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79261039263
+            [services] => УТ
+            [full_name] => Екатерина Шевченко
+        )
+
+    [services] => УТ
+    [full_name] => Екатерина Шевченко
+    [created_time] => 2019-03-20T12:46:31+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 670169567149532
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79777824928
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79777824928
+            [services] => УТ
+            [full_name] => Vittoria
+        )
+
+    [services] => УТ
+    [full_name] => Vittoria
+    [created_time] => 2019-03-22T15:01:05+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 671291297037359
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79057718020
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79057718020
+            [services] => УТ
+            [full_name] => Серебро925 по миру💎💍👑📿
+        )
+
+    [services] => УТ
+    [full_name] => Серебро925 по миру💎💍👑📿
+    [created_time] => 2019-03-22T22:02:36+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 671446173688538
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79624902091
+    [ad_id] => 6120758840485
+    [form_id] => 402717907220917
+    [platform] => ig
+    [ad_name] => Ultraformer lead
+    [adset_id] => 6120758840885
+    [campaign_id] => 6118904844085
+    [raw] => Array
+        (
+            [phone_number] => +79624902091
+            [services] => Ultraformer
+            [full_name] => Ekaterina
+        )
+
+    [services] => Ultraformer
+    [full_name] => Ekaterina
+    [created_time] => 2019-03-23T15:33:38+0000
+    [campaign_name] => Генерация лидов
+    [id] => 403713780454663
+    [adset_name] => Ultraformer lead
+)
+Array
+(
+    [phone_number] => +79647905593
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79647905593
+            [services] => УТ
+            [full_name] => shved
+        )
+
+    [services] => УТ
+    [full_name] => shved
+    [created_time] => 2019-03-23T20:27:19+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 671929850306837
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79260886090
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79260886090
+            [services] => УТ
+            [full_name] => Лиза
+        )
+
+    [services] => УТ
+    [full_name] => Лиза
+    [created_time] => 2019-03-24T16:00:57+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 672395986926890
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79684993678
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79684993678
+            [services] => УТ
+            [full_name] => Юля
+        )
+
+    [services] => УТ
+    [full_name] => Юля
+    [created_time] => 2019-03-24T20:22:21+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 672499056916583
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79096944848
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79096944848
+            [services] => УТ
+            [full_name] => станислав эрклиевский
+        )
+
+    [services] => УТ
+    [full_name] => станислав эрклиевский
+    [created_time] => 2019-03-25T11:38:24+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 672797686886720
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79651471206
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79651471206
+            [services] => УТ
+            [full_name] => Anna Vtorova
+        )
+
+    [services] => УТ
+    [full_name] => Anna Vtorova
+    [created_time] => 2019-03-25T17:40:47+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 672967390203083
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79163853928
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => fb
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79163853928
+            [services] => УТ
+            [full_name] => Андрей Саютин
+        )
+
+    [services] => УТ
+    [full_name] => Андрей Саютин
+    [created_time] => 2019-03-25T20:53:23+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 673040840195738
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79168825744
+    [ad_id] => 6117571500885
+    [form_id] => 651772262322596
+    [platform] => ig
+    [ad_name] => tutu 1
+    [adset_id] => 6117571495685
+    [campaign_id] => 6117571495285
+    [raw] => Array
+        (
+            [phone_number] => +79168825744
+            [services] => УТ
+            [full_name] => Богдан Баядин
+        )
+
+    [services] => УТ
+    [full_name] => Богдан Баядин
+    [created_time] => 2019-03-26T07:50:14+0000
+    [campaign_name] => УТ Генерация лидов
+    [id] => 673256646840824
+    [adset_name] => Удаление Тату
+)
+Array
+(
+    [phone_number] => +79255129486
+    [ad_id] => 6122341307085
+    [form_id] => 1187772211399130
+    [platform] => ig
+    [ad_name] => Клуб лиды с 1 апреля woman
+    [adset_id] => 6122341306885
+    [campaign_id] => 6122340979485
+    [raw] => Array
+        (
+            [phone_number] => +79255129486
+            [services] => Клубные карты
+            [full_name] => Юлька Кисель
+        )
+
+    [services] => Клубные карты
+    [full_name] => Юлька Кисель
+    [created_time] => 2019-04-08T15:37:16+0000
+    [campaign_name] => Генерация лидов Клуб
+    [id] => 1187889141387437
+    [adset_name] => Клуб лиды женщины
+)
+Array
+(
+    [phone_number] => +79037337116
+    [ad_id] => 6122341307085
+    [form_id] => 1187772211399130
+    [platform] => ig
+    [ad_name] => Клуб лиды с 1 апреля woman
+    [adset_id] => 6122341306885
+    [campaign_id] => 6122340979485
+    [raw] => Array
+        (
+            [phone_number] => +79037337116
+            [services] => Клубные карты
+            [full_name] => Eвв
+        )
+
+    [services] => Клубные карты
+    [full_name] => Eвв
+    [created_time] => 2019-04-08T15:43:12+0000
+    [campaign_name] => Генерация лидов Клуб
+    [id] => 1187891634720521
+    [adset_name] => Клуб лиды женщины
+)
+Array
+(
+    [phone_number] => 89104744691
+    [ad_id] => 6122340979885
+    [form_id] => 1187772211399130
+    [platform] => ig
+    [ad_name] => Клуб лиды с 1 апреля man
+    [adset_id] => 6122340980885
+    [campaign_id] => 6122340979485
+    [raw] => Array
+        (
+            [phone_number] => 89104744691
+            [services] => Клубные карты
+            [full_name] => ildar
+        )
+
+    [services] => Клубные карты
+    [full_name] => ildar
+    [created_time] => 2019-04-08T16:12:15+0000
+    [campaign_name] => Генерация лидов Клуб
+    [id] => 1187904814719203
+    [adset_name] => Клуб лиды мужчины
+)
+Array
+(
+    [phone_number] => +79037151677
+    [ad_id] => 6122341307085
+    [form_id] => 1187772211399130
+    [platform] => ig
+    [ad_name] => Клуб лиды с 1 апреля woman
+    [adset_id] => 6122341306885
+    [campaign_id] => 6122340979485
+    [raw] => Array
+        (
+            [phone_number] => +79037151677
+            [services] => Клубные карты
+            [full_name] => Анна Гурович
+        )
+
+    [services] => Клубные карты
+    [full_name] => Анна Гурович
+    [created_time] => 2019-04-08T20:54:31+0000
+    [campaign_name] => Генерация лидов Клуб
+    [id] => 1188025068040511
+    [adset_name] => Клуб лиды женщины
+)

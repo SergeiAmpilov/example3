@@ -1,0 +1,68 @@
+<?php
+/**
+ * Copyright Maxim Bykovskiy © 2018.
+ */
+
+/**
+ * Created by PhpStorm.
+ * User: sherh
+ * Date: 17.08.2018
+ * Time: 15:56
+ */
+
+require_once ("emails.php");
+require_once ("b24ClassWebHook.php");
+
+set_time_limit(0);
+date_default_timezone_set('Europe/Moscow');
+
+$time = file_get_contents("time");
+file_put_contents("time", time());
+//$time = 1534568400;
+
+$b24 = new \b24\webHook("biosphere.bitrix24.ru", "9elfr37clmdm5lhm");
+$mbox = new \imaper\emails('imap.mail.ru', 993, 'imap', 'ssl', 'INBOX', 'Biosphere.club@mail.ru', 'Pcgmgy11', $time);
+
+$mailsIds = $mbox->getMessages();
+
+function validate_phone_number( $string ) {
+    if ( preg_match( '/^[+]?([\d]{0,3})?[\(\.\-\s]?([\d]{3})[\)\.\-\s]*([\d]{3})[\.\-\s]?([\d]{4})$/', $string ) ) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
+print_r($mailsIds); //die();
+
+foreach ($mailsIds['result'] as $lead) {
+    if(empty($lead['subject']))
+        continue;
+    $arr = [
+        "NAME" => $lead['subject'],
+        "TITLE" => $lead['subject'],
+        "PHONE" => [["VALUE" => $lead['tel'], "VALUE_TYPE" => "WORK"]],
+        "EMAIL" => [["VALUE" => $lead['email'], "VALUE_TYPE" => "WORK"]],
+        "COMMENTS" => $lead['text'],
+        "ASSIGNED_BY_ID" => "216"
+    ];
+
+    $response = $b24->add("lead", ['fields' => $arr]);
+
+    if(empty($response->result) && isset($response->error))
+        $mbox->error('Email id: ' . $lead['id'] . '. Error: ' . $response->error_description . '. Text: ' . $lead['text']);
+
+
+    if(!empty($response->result) && !empty($lead['tel'])) {
+        //$rez = $b24->lineGet();
+
+        $rez = $b24->lineStart([
+            "FROM_LINE" => "74951183914",
+            "TO_NUMBER" => $lead['tel'],
+            "TEXT_TO_PRONOUNCE" => "Я звоню тебе, потому что пришло новое сообщение на почту с темой " . $lead['subject']
+        ]);
+        print_r($rez);
+    }
+}
+
+file_put_contents(__DIR__ . "/success.log", "\n\nUpload at " . date("Y-m-d H:i:s") . ", " . $mailsIds['count'] . " emails.", FILE_APPEND);

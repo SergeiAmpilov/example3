@@ -1,0 +1,5585 @@
+Array
+(
+    [ID] => 843
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Тестовый Заказ
+            [EMAIL] => test2@test.ru
+            [PHONE] => 78005553535
+            [ADDRESS] => Малая Калужская улица
+        )
+
+    [PRICE] => 7500
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => fdv
+    [COMAGIC] => 1815479286.2786831883.1546068012
+    [YANDEX] => 15459115161023510991
+    [GOOGLE] => GA1.2.1398559485.1546068012
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 844
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Тестов Тест Тестович
+            [EMAIL] => testovich@test.com
+            [PHONE] => 71230981212
+            [ADDRESS] => Тверская, 1
+        )
+
+    [PRICE] => 10500
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => тест!!!!!!!!!!!!!!!!!!!!!!!1111
+    [COMAGIC] => 1815701566.2787171983.1546076223
+    [YANDEX] => 1545918371562228005
+    [GOOGLE] => GA1.2.1047274020.1546076214
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 845
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Плевкова Евгения Игоревна 
+            [EMAIL] => plevkova@list.ru
+            [PHONE] => 79852949091
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1787356196.2787162483.1546075983
+    [YANDEX] => 1544693592264307440
+    [GOOGLE] => GA1.2.2037971787.1545986617
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Медовый день
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 846
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Моисеев Алексей
+            [EMAIL] => AlekseyVMPay@mail.ru
+            [PHONE] => 9166643928
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1818814516.2787294377.1546079291
+    [YANDEX] => 1546079290388795075
+    [GOOGLE] => GA1.2.1477426619.1546079291
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 847
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Моисеев Алексей
+            [EMAIL] => AlekseyVMPay@mail.ru
+            [PHONE] => 9166643928
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1818814516.2787294377.1546079291
+    [YANDEX] => 1546079290388795075
+    [GOOGLE] => GA1.2.1477426619.1546079291
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 848
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Моисеев Алексей
+            [EMAIL] => AlekseyVMPay@mail.ru
+            [PHONE] => 9166643928
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1818814516.2787294377.1546079291
+    [YANDEX] => 1546079290388795075
+    [GOOGLE] => GA1.2.1477426619.1546079291
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 849
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Морозов Дмитрий
+            [EMAIL] => dimam-78@yandex.ru
+            [PHONE] => 79175595756
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1818503986.2787343055.1546080523
+    [YANDEX] => 1546067498738073964
+    [GOOGLE] => GA1.2.1042465392.1546067498
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 850
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Леонов Иван Евгеньевич
+            [EMAIL] => gun737@gmail.com
+            [PHONE] => 79031253768
+            [ADDRESS] => Расковой д. 34к30
+        )
+
+    [PRICE] => 7500
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Здравствуйте. Организуйте, пожалуйста, доставку на 2 января 2019 года. Спасибо.
+    [COMAGIC] => 1819370920.2788249515.1546106738
+    [YANDEX] => 1546103274954209340
+    [GOOGLE] => GA1.2.46746558.1546103279
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 851
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бирюкова Марина
+            [EMAIL] => Bibi24@yandex.ru
+            [PHONE] => 79091545910
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 2500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1799024772.2789217771.1546160502
+    [YANDEX] => 1545181748134164781
+    [GOOGLE] => GA1.2.1743492079.1546074180
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник
+                    [PRICE] => 2500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 852
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Панферова Екатерина Александровна
+            [EMAIL] => panferovakaterina@icloud.com
+            [PHONE] => 79671147823
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1820131318.2789255949.1546161785
+    [YANDEX] => 1546161785950574366
+    [GOOGLE] => GA1.2.554525954.1546161785
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 853
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Суханова Виктория Алексеевна
+            [EMAIL] => djvlad08@rambler.ru
+            [PHONE] => 79774606984
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1820028604.2789102161.1546156633
+    [YANDEX] => 1546157054663961822
+    [GOOGLE] => GA1.2.1685727664.1546157054
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 854
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Алексеенко Роман Игоревич
+            [EMAIL] => romaleks360@gmail.com
+            [PHONE] => 79636827389
+            [ADDRESS] => Пятницкое шоссе, д. 15
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1820155142.2789425723.1546167580
+    [YANDEX] => 154616300968021381
+    [GOOGLE] => GA1.2.416676454.1546163009
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Медовый день
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 855
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бабаева Екатерина Владимировна
+            [EMAIL] => katuxa9005@mail.ru
+            [PHONE] => 79055572958
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 5500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1817976200.2789480759.1546169486
+    [YANDEX] => 1546024637539159709
+    [GOOGLE] => GA1.2.737774130.1546169486
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 5500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 856
+    [ORDER_PROP] => Array
+        (
+            [NAME] => 89035959907
+            [EMAIL] => Vasileva-ss@mail.ru
+            [PHONE] => 79035959907
+            [ADDRESS] => Долгопрудный проспект ракетостроителей 7к1 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1820236226.2789502321.1546170229
+    [YANDEX] => 1546167127456639858
+    [GOOGLE] => GA1.2.436453513.1546167126
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 857
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бабаева Екатерина Владимировна 
+            [EMAIL] => katuxa9005@mail.ru
+            [PHONE] => 79055572958
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 2000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1817976200.2789992613.1546188148
+    [YANDEX] => 1546024637539159709
+    [GOOGLE] => GA1.2.737774130.1546169486
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 2000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 858
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Алеся Игоревна Смирнова
+            [EMAIL] => alesya_smirnova@mail.ru
+            [PHONE] => 79269996610
+            [ADDRESS] => Шипиловская 3
+        )
+
+    [PRICE] => 30000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1821271122.2790929387.1546246251
+    [YANDEX] => 1546246246576649518
+    [GOOGLE] => GA1.2.1614760471.1546246245
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 3.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 859
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Насс Терренс Эллиотт
+            [EMAIL] => nussterry10@gmail.com
+            [PHONE] => 79250033019
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 4100
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1821498108.2791262883.1546261275
+    [YANDEX] => 1546261273104970960
+    [GOOGLE] => GA1.2.1590255374.1546261273
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 4100.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 860
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ивлиев Сергей Михайлович
+            [EMAIL] => Sivliev@mail.ru
+            [PHONE] => 79265967721
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1821744518.2791628421.1546283812
+    [YANDEX] => 1546283811681499913
+    [GOOGLE] => GA1.2.1707137208.1546283811
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 861
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Алексей
+            [EMAIL] => AlekseyVMPay@mail.ru
+            [PHONE] => 9166643928
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1818814516.2792894331.1546365704
+    [YANDEX] => 1546079290388795075
+    [GOOGLE] => GA1.2.1430454677.1546365704
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат на 11000 рублей
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 862
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Кривошеина
+            [EMAIL] => yaisatsana2315@mail.ru
+            [PHONE] => 79096468746
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13400
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1826637220.2798797319.1546607331
+    [YANDEX] => 15466073301050858845
+    [GOOGLE] => GA1.2.756342140.1546607330
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Мальдивы в Москве
+                    [PRICE] => 12900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 863
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Костромина Наталия Вадимовна
+            [EMAIL] => vj.natalyfire@yandex.ru
+            [PHONE] => 79264949308
+            [ADDRESS] => Москва, ул. Крупской, д.15, кв.120
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1826606170.2798751917.1546606215
+    [YANDEX] => 1546606216996460157
+    [GOOGLE] => GA1.2.1077625909.1546606216
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 864
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Анна
+            [EMAIL] => kolesas@list.ru
+            [PHONE] => 79173029060
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1828234482.2801144531.1546691646
+    [YANDEX] => 1546695296914286189
+    [GOOGLE] => GA1.2.465074766.1546695295
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Русский пар
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 865
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Матросова Екатерина Михайловна
+            [EMAIL] => Katerina_matrosova@bk.ru
+            [PHONE] => 79621617600
+            [ADDRESS] => Иваново
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1828234886.2803323961.1546771865
+    [YANDEX] => 1546691618999446668
+    [GOOGLE] => GA1.2.2124070394.1546691618
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Морской отдых
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 866
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Милена Саакян
+            [EMAIL] => isrmilena@gmail.com
+            [PHONE] => 79099518163
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Если возможно на сертификате указать получателей &quot;Для любимых и бесценных мамочек&quot;. 
+    [COMAGIC] => 1831466098.2805913241.1546863657
+    [YANDEX] => 1546863657332633679
+    [GOOGLE] => GA1.2.1655287598.1546863657
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 867
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Белоиван Марина Викторовна
+            [EMAIL] => beloivanmv@mail.ru
+            [PHONE] => 79251586807
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 11200
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1832953700.2808122203.1546943152
+    [YANDEX] => 1546943152335083820
+    [GOOGLE] => GA1.2.1872512600.1546943152
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 11200.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 868
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Казакова Анна Алексеевна
+            [EMAIL] => artem_lan@mail.ru
+            [PHONE] => 79261479909
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1839831856.2818492811.1547211716
+    [YANDEX] => 1547211708352167009
+    [GOOGLE] => GA1.2.270097126.1547211708
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 869
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Казакова Анна Алексеевна
+            [EMAIL] => artem_lan@mail.ru
+            [PHONE] => 79261479909
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1839831856.2818492811.1547211716
+    [YANDEX] => 1547211708352167009
+    [GOOGLE] => GA1.2.270097126.1547211708
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 870
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бут-Гусаим Анастасия 
+            [EMAIL] => rupyshevaa@yandex.ru
+            [PHONE] => 79096216758
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1841816526.2821449731.1547300872
+    [YANDEX] => 1547300842854291331
+    [GOOGLE] => GA1.2.833030803.1547300846
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Relax Day
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 871
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бут-Гусаим Анастасия 
+            [EMAIL] => rupyshevaa@yandex.ru
+            [PHONE] => 79096216758
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1841816526.2821449731.1547300872
+    [YANDEX] => 1547300842854291331
+    [GOOGLE] => GA1.2.833030803.1547300846
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Relax Day
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 872
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Зафт Михаэль
+            [EMAIL] => michael.saft@gmx.de
+            [PHONE] => 79166468737
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 19900
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1845812286.2827486773.1547472619
+    [YANDEX] => 1547472619493078346
+    [GOOGLE] => GA1.2.1985769238.1547472619
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Баня по-царски
+                    [PRICE] => 19900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 873
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ковыкова Юля
+            [EMAIL] => j.kovykova@gmail.com
+            [PHONE] => 79688030263
+            [ADDRESS] => Проспект Вернадского, 53
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => От всей души Татьяне от семьи Ковыковых.
+
+
+    [COMAGIC] => 1845854032.2827551375.1547473707
+    [YANDEX] => 1547473705874867666
+    [GOOGLE] => GA1.2.1415800414.1547473705
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат с доставкой
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 874
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Романко София Константиновна
+            [EMAIL] => romanko.mops@mail.ru
+            [PHONE] => 79152239110
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1841403062.2828152517.1547485273
+    [YANDEX] => 1547287621713467558
+    [GOOGLE] => GA1.2.1490144566.1547454401
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник
+                    [PRICE] => 2500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 875
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Горбунова Лариса Викторовна 
+            [EMAIL] => Largorbunova@yandex.ru
+            [PHONE] => 79853654725
+            [ADDRESS] => Ленинский проспект 4 стр 1а
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1848460950.2831536415.1547569844
+    [YANDEX] => 1547569837231086290
+    [GOOGLE] => GA1.2.126932257.1547569837
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Оздоровление и релаксация
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 876
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Хлыстовская Виктория Сергеевна
+            [EMAIL] => v9127959@yandex.ru
+            [PHONE] => 79269127959
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 3000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1856907742.2844372715.1547910200
+    [YANDEX] => 1547910196890569230
+    [GOOGLE] => GA1.2.2107959335.1547910196
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 3000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 877
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бусыгин Антон Александрович
+            [EMAIL] => bus9l@bk.ru
+            [PHONE] => 79263414512
+            [ADDRESS] => Лубянский проезд, дом 25, стр. 1
+        )
+
+    [PRICE] => 7500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Добрый день!
+
+Сертификат в подарок, просьба доставить по адресу Лубянский проезд, дом 25, стр. 1 - Натали, она шеф повар в кафе &quot;Китайский Лётчик Джао Да&quot;. При вручении сказать, что подарок от Буси :) - если это конечно возможно.
+
+Спасибо большое
+    [COMAGIC] => 1862967938.2853586445.1548157090
+    [YANDEX] => 15481570891031693251
+    [GOOGLE] => GA1.2.271171096.1548157089
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 878
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Якоби Татьяна
+            [EMAIL] => ludmila.brook@gmail.com
+            [PHONE] => 79263523003
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1867377860.2860287593.1548320611
+    [YANDEX] => 1548320604452217934
+    [GOOGLE] => GA1.2.608409849.1548320608
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Relax Day
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 879
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Логутова Эльвира Михайловна
+            [EMAIL] => richman3006@gmail.com
+            [PHONE] => 79772730489
+            [ADDRESS] => Автозаводская 23с16
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Сертификат Классика арт.034
+    [COMAGIC] => 1881105920.2882912127.1548916897
+    [YANDEX] => 154886490767270071
+    [GOOGLE] => GA1.2.1770353397.1548864907
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Оздоровление и релаксация
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 880
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Жестовская Екатерина НИКОЛАЕВНА
+            [EMAIL] => ekaterina.svetlova.95@mail.ru
+            [PHONE] => 79099873512
+            [ADDRESS] => г. москва, ул. Народного Ополчения 9 А
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1877731752.2884097753.1548935807
+    [YANDEX] => 1548751258187960889
+    [GOOGLE] => GA1.2.1118661448.1548935807
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 881
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Максуль Ольга Геннадьевна
+            [EMAIL] => olgamaxrtpp@yandex.ru
+            [PHONE] => 79261948224
+            [ADDRESS] => ул.Автозаводская, 18 (вт-пт с 11.00 до 19.00) или Большая филёвская 37к1 (сб-пн в любое время)
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Точный адрес доставки будет зависеть от дня. Если сертификат именной, то на имя Ольга
+    [COMAGIC] => 1880892764.2884763455.1548946830
+    [YANDEX] => 1548858684157412880
+    [GOOGLE] => GA1.2.1262616277.1548858679
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 882
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Егорова Надежда Александровна
+            [EMAIL] => egorova@zpkgeostar.ru
+            [PHONE] => 79858575600
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1890082542.2895359801.1549261202
+    [YANDEX] => 1549261201692056341
+    [GOOGLE] => GA1.2.537840372.1549261200
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 883
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Егорова Надежда Александровна
+            [EMAIL] => egorova@zpkgeostar.ru
+            [PHONE] => 79858575600
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1890082542.2895359801.1549261202
+    [YANDEX] => 1549261201692056341
+    [GOOGLE] => GA1.2.537840372.1549261200
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 884
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Васильева Диана Григорьевна
+            [EMAIL] => Vasilievakid2@mail.ru
+            [PHONE] => 79671356977
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1890570378.2896139055.1549273119
+    [YANDEX] => 1549273107830835157
+    [GOOGLE] => GA1.2.638851285.1549273114
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 885
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Могош Вероника Васильевна
+            [EMAIL] => Dalaver@mail.ru
+            [PHONE] => 79645679232
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1769486706.2898015009.1549303769
+    [YANDEX] => 1543941856335810689
+    [GOOGLE] => GA1.2.1792089886.1549294034
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-свидание DeLuxe
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 886
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Могош Вероника Васильевна
+            [EMAIL] => Dalaver@mail.ru
+            [PHONE] => 79645679232
+            [ADDRESS] => Твардовского 12/1-217
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 14 февраля 19.30
+    [COMAGIC] => 1769486706.2898015009.1549303769
+    [YANDEX] => 1543941856335810689
+    [GOOGLE] => GA1.2.1792089886.1549294034
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-свидание DeLuxe
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 887
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Пасько Анастасия Эдуардовна 
+            [EMAIL] => anastasia.pasko2010@mail.ru
+            [PHONE] => 79622120644
+            [ADDRESS] => улица Старый Арбат 46 строение 1 
+        )
+
+    [PRICE] => 10460
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Запись на спа-программу оформлена на 12:00 17.02.19
+    [COMAGIC] => 1893412168.2900622341.1549371080
+    [YANDEX] => 1549370000168296832
+    [GOOGLE] => GA1.2.918662254.1549370000
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогодняя упаковка сертификата с шоколадной фигуркой внутри
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 888
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Соколова Екатерина Сергеевна
+            [EMAIL] => 1306007@gmail.com
+            [PHONE] => 79031306007
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1881054842.2901130273.1549379126
+    [YANDEX] => 1548863450363873855
+    [GOOGLE] => GA1.2.1203610886.1549379261
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 889
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бутенко Алёна Дмитриевна
+            [EMAIL] => jeranimo_007@bk.ru
+            [PHONE] => 79629006005
+            [ADDRESS] => Москва, ул. Орджоникидже стр 11, 11 проходная
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1895435702.2903688457.1549448930
+    [YANDEX] => 154944893036469532
+    [GOOGLE] => GA1.2.41432013.1549448931
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 890
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ошкина Галина Васильевна
+            [EMAIL] => galinaoshkina@mail.ru
+            [PHONE] => 79257288323
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1869637066.2906552763.1549524254
+    [YANDEX] => 15484078491011638937
+    [GOOGLE] => GA1.2.1134040267.1549524253
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 891
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Джунусова Ирина Алексеевна
+            [EMAIL] => dodissimo@mail.ru
+            [PHONE] => 79031225345
+            [ADDRESS] => Измайловский проезд, 5к2, кв50, 1 под., 8 эт., код 2011
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Оформление сертификата: классика. Доставка нужна на завтра (пятница)
+    [COMAGIC] => 1896829060.2907574499.1549539694
+    [YANDEX] => 1549494235594972806
+    [GOOGLE] => GA1.2.976616552.1549494234
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 892
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Мазуренко Анастасия 
+            [EMAIL] => nastenka_dusenko@mail.ru
+            [PHONE] => 79165985678
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Запись на 22.02 в 19:00.
+    [COMAGIC] => 1836051484.2907653233.1549540896
+    [YANDEX] => 1547061512890765611
+    [GOOGLE] => GA1.2.610682172.1549446169
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 893
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Датриева Мария
+            [EMAIL] => dma@mail.ru
+            [PHONE] => 7907421942
+            [ADDRESS] => dma@mail.ru
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1899566754.2910091953.1549610035
+    [YANDEX] => 1549610034177931808
+    [GOOGLE] => GA1.2.273461604.1549610034
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 894
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Test test Test
+            [EMAIL] => sergeydrum@yandex.ru
+            [PHONE] => 79150353809
+            [ADDRESS] => Тестовый адрес
+        )
+
+    [PRICE] => 460
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1578049458.2911428583.1549631023
+    [YANDEX] => 1532502387981117359
+    [GOOGLE] => GA1.2.392668686.1549547530
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 10.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 450
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 895
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Крицкий Виталий Иванович
+            [EMAIL] => rskmig@gmail.com
+            [PHONE] => 79060556645
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 4200
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1900073144.2911521283.1549632606
+    [YANDEX] => 1549622411692750328
+    [GOOGLE] => GA1.2.1333058673.1549622411
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 4200.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 896
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Васекина Диана Александровна
+            [EMAIL] => Vasekinad@mail.ru
+            [PHONE] => 79779707753
+            [ADDRESS] => Москва
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1901175478.2912593775.1549655369
+    [YANDEX] => 1549655369131946952
+    [GOOGLE] => GA1.2.1752842232.1549655365
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 897
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Васекина Диана Александровна
+            [EMAIL] => Vasekinad@mail.ru
+            [PHONE] => 79779707753
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 15.02.2019 (19.00)
+    [COMAGIC] => 1901175478.2912593775.1549655369
+    [YANDEX] => 1549655369131946952
+    [GOOGLE] => GA1.2.1752842232.1549655365
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 898
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Васекина Диана Александровна 
+            [EMAIL] => Vasekinad@mail.ru
+            [PHONE] => 79779707753
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 15.02.2019 (19.00)
+    [COMAGIC] => 1902575376.2914695189.1549723768
+    [YANDEX] => 1549723768637226238
+    [GOOGLE] => GA1.2.1917600490.1549723767
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 899
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ошкина Галина Васильевна
+            [EMAIL] => galinaoshkina@mail.ru
+            [PHONE] => 79257288323
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1869637066.2915893549.1549766763
+    [YANDEX] => 15484078491011638937
+    [GOOGLE] => GA1.2.832337769.1549766763
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 900
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Черенкова Дарья Петровна 
+            [EMAIL] => dasha.morozzzova@mail.ru
+            [PHONE] => 79161310263
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Уже записана на 23.02.2019 в 18.00
+    [COMAGIC] => 1905969682.2920210773.1549879790
+    [YANDEX] => 1549874966518279873
+    [GOOGLE] => GA1.2.933223305.1549874966
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 901
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Кравцов Максим Витальевич 
+            [EMAIL] => pingvimaximus@gmail.com
+            [PHONE] => 79021035312
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1907582300.2923718219.1549963512
+    [YANDEX] => 1549917370809227297
+    [GOOGLE] => GA1.2.187520687.1549917382
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 902
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Коновалова Анастасия Андреевна
+            [EMAIL] => Anastasia.konovalovaa@yandex.ru
+            [PHONE] => 79654231234
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Запись на 16,02.19 на 14:00 Коновалова 
+    [COMAGIC] => 1908665792.2924852151.1549980732
+    [YANDEX] => 154996885720469644
+    [GOOGLE] => GA1.2.619806761.1549968857
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 903
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Швецова Юлия Юрьевна
+            [EMAIL] => y.shvetsova@modulbank.ru
+            [PHONE] => 79259237777
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1908425824.2924891615.1549981383
+    [YANDEX] => 1549963243407245908
+    [GOOGLE] => GA1.2.1105724911.1549963242
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 904
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Чепрнич Стефан
+            [EMAIL] => cheprnich@gmail.com
+            [PHONE] => 79167924264
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9960
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1895568378.2925127711.1549985621
+    [YANDEX] => 1549451994766832187
+    [GOOGLE] => GA1.2.219913501.1549868630
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => СПА Святого Валентина
+                    [PRICE] => 9960.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 905
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Русакова Оксана
+            [EMAIL] => ludmila.brook@gmail.com
+            [PHONE] => 79263523003
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1867377860.2925684083.1549996943
+    [YANDEX] => 1548320604452217934
+    [GOOGLE] => GA1.2.1355141018.1549996939
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Морской отдых!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 906
+    [ORDER_PROP] => Array
+        (
+            [NAME] => 79067703672
+            [EMAIL] => Helen190595@mail.ru
+            [PHONE] => 79067703672
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1858450756.2925840195.1550000550
+    [YANDEX] => 1547985822232082173
+    [GOOGLE] => GA1.2.970124500.1550000550
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее SPA-свидание
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 907
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Усачев Алексей Юрьевич
+            [EMAIL] => leha.usachev.1987@mail.ru
+            [PHONE] => 9670527316
+            [ADDRESS] => ул. Авиамоторная, д.53
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => доставка в рабочие дни с 9:00 до 16:00
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Медовый день
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 908
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Миронова Анастасия Сергеевна 
+            [EMAIL] => Anastasiamir1995@mail.ru
+            [PHONE] => 79851942164
+            [ADDRESS] => Г. Москва, Сущевский вал д. 14/22, корп. 7, судебный участок 313
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Доставка строго до 18:00! 
+    [COMAGIC] => 1912132284.2929939795.1550122682
+    [YANDEX] => 1550092257786967251
+    [GOOGLE] => GA1.2.751449234.1550092257
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 909
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Погорелый евгений
+            [EMAIL] => pea@as.ru
+            [PHONE] => 79253044858
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1898605834.2929975901.1550123557
+    [YANDEX] => 1549557596483779835
+    [GOOGLE] => GA1.2.830975874.1550046606
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 910
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Миронова Анастасия Сергеевна
+            [EMAIL] => anastasiamir1995@mail.ru
+            [PHONE] => 79851942164
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1912770784.2930523125.1550133111
+    [YANDEX] => 1550133111958504168
+    [GOOGLE] => GA1.2.167416496.1550133111
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 911
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Жильцов А.А.
+            [EMAIL] => andrei.zhiltsov@gmail.com
+            [PHONE] => 79265751884
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 912
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Аюпова Аида Асгатовна
+            [EMAIL] => aidaayup@mail.ru
+            [PHONE] => 79104074768
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1825566310.2938489619.1550336554
+    [YANDEX] => 1546544639658070897
+    [GOOGLE] => GA1.2.494425781.1550336552
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Медовый день
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 913
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Асланова Инесса Вадимовна
+            [EMAIL] => inna-aslanova16@mail.ru
+            [PHONE] => 79253791779
+            [ADDRESS] => ул. Широкая, 6, к.4, под.3, эт.8, кв.166, домоф. 166
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1622043908.2938849045.1550345155
+    [YANDEX] => 1537707447846332161
+    [GOOGLE] => GA1.2.1718514681.1550336268
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 914
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Тим Набиев 
+            [EMAIL] => asavitckii@gmail.com
+            [PHONE] => 79639669656
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1759251272.2942707495.1550472720
+    [YANDEX] => 1543508352547103858
+    [GOOGLE] => GA1.2.1793026735.1550472343
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 915
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бортничек Елена Александровна 
+            [EMAIL] => Shestakova2006@gmail.com
+            [PHONE] => 79259993097
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Бортничек Светлана 
+19.02.19 в 12.00
+    [COMAGIC] => 1921652360.2946503741.1550560197
+    [YANDEX] => 1550495122319503368
+    [GOOGLE] => GA1.2.1513903670.1550495122
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Морской отдых
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 916
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Колотвина Анна Алексеевна
+            [EMAIL] => Kolotvina1998@bk.ru
+            [PHONE] => 79164033846
+            [ADDRESS] => Дубнинская улица дом 5 корпус 2 подъезд 1 квартира 1
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Сломан домофон. Позвоните, пожалуйста, по указанному номеру, как будете у подъезда, я спущусь
+    [COMAGIC] => 1922442876.2947096449.1550569010
+    [YANDEX] => 155051728722166459
+    [GOOGLE] => GA1.2.1104843412.1550517287
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 917
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Южакова Полина
+            [EMAIL] => Pyuzhakova@gmail.com
+            [PHONE] => 79067839999
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 11100
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Оплата услуги Спа Девичник
+С дополнительным массажем
+19.02.19 в 15.00
+    [COMAGIC] => 1907241124.2947427801.1550573876
+    [YANDEX] => 1549905749100158881
+    [GOOGLE] => GA1.2.1733668670.1550500182
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 11100.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 918
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Войсковая Полина Дмитриевна
+            [EMAIL] => polsha-1994@mail.ru
+            [PHONE] => 79153352285
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13400
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1900043144.2947644207.1550577046
+    [YANDEX] => 1549621687649072484
+    [GOOGLE] => GA1.2.1581581271.1550577046
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 13400.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 919
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ксения К
+            [EMAIL] => Kirkina0502@gmail.com
+            [PHONE] => 79776650502
+            [ADDRESS] => Ул.Хабаровская
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1927118868.2952799273.1550692255
+    [YANDEX] => 1550692250902812879
+    [GOOGLE] => GA1.2.1284176350.1550692250
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 920
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сергей Игнатьев
+            [EMAIL] => s-ignatev@mail.ru
+            [PHONE] => 79296190001
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 16000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1928623574.2955164655.1550755792
+    [YANDEX] => 1550755930780842981
+    [GOOGLE] => GA1.2.1715813221.1550755930
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 2.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 921
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сергей Игнатьев
+            [EMAIL] => s-ignatev@mail.ru
+            [PHONE] => 79296190001
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 16000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1928623574.2955164655.1550755792
+    [YANDEX] => 1550755930780842981
+    [GOOGLE] => GA1.2.1715813221.1550755930
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 2.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 922
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сергей Игнатьев
+            [EMAIL] => s-ignatev@mail.ru
+            [PHONE] => 79296190001
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 16000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1928623574.2955164655.1550755792
+    [YANDEX] => 1550755930780842981
+    [GOOGLE] => GA1.2.1715813221.1550755930
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 2.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 923
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Козьменко Анастасия
+            [EMAIL] => Anastasia.kozmenko@gmail.com
+            [PHONE] => 79165307434
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1691882088.2966646827.1551090561
+    [YANDEX] => 150546549978659187
+    [GOOGLE] => GA1.2.286433109.1551090560
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 924
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бабкина Валерия Дмитриевна
+            [EMAIL] => babkina-vd94@mail.ru
+            [PHONE] => 79104119468
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 45000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1850037536.2969538821.1551165435
+    [YANDEX] => 1547637583213516788
+    [GOOGLE] => GA1.2.1688994554.1551165435
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат с доставкой
+                    [PRICE] => 45000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 925
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Будневич
+            [EMAIL] => budnewitch@yandex.ru
+            [PHONE] => 79219621004
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1942551858.2976810651.1551338739
+    [YANDEX] => 1551338739245452909
+    [GOOGLE] => GA1.2.1710917237.1551338739
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 926
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Горина Ольга
+            [EMAIL] => karina_belera@rgs.ru
+            [PHONE] => 79629665577
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 5000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1942587398.2976997315.1551341669
+    [YANDEX] => 1551339622437752119
+    [GOOGLE] => GA1.2.389441879.1551339622
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 5000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 927
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Мельникова Елена Александровна
+            [EMAIL] => Hel_sea@mail.ru
+            [PHONE] => 79162569005
+            [ADDRESS] => Гоголевский бульвар 11
+        )
+
+    [PRICE] => 5000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Оформить сертификат в упаковку арт. 033,
+м. Кропоткинская, м. Арбатская, Гоголевский бульвар 11, будни с 10-19
+    [COMAGIC] => 1940995836.2977148211.1551343990
+    [YANDEX] => 1551269711500239550
+    [GOOGLE] => GA1.2.1974513111.1551269711
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат с доставкой
+                    [PRICE] => 5000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 928
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Агамов Леонид
+            [EMAIL] => agamov74@gmail.com
+            [PHONE] => 79250112907
+            [ADDRESS] => Москва, Мажоров переулок  д.14 стр3. БЦ "АВС" 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Доставка 4 марта с 9.00 до 18.00
+    [COMAGIC] => 1942534416.2977419819.1551348231
+    [YANDEX] => 1551338292887527439
+    [GOOGLE] => GA1.2.440651749.1551338292
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 929
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Морозов Сергей Владимирович
+            [EMAIL] => ceo@svprint24.ru
+            [PHONE] => 79255023080
+            [ADDRESS] => ceo@svprint24.ru
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Добрый день!
+Это для Анна Владимировна Асатиани. 
+У неё день рождения!
+Пусть всё пройдет на высшем уровне
+    [COMAGIC] => 1942925572.2977398675.1551347895
+    [YANDEX] => 1551347893186972371
+    [GOOGLE] => GA1.2.1160651047.1551347893
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 930
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Коркина Анжелика Евгеньевна
+            [EMAIL] => anzhela.korkina.97@yandex.ru
+            [PHONE] => 9850280690
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1943807276.2978772893.1551370410
+    [YANDEX] => 15513704361002253965
+    [GOOGLE] => GA1.2.2076452835.1551370420
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Relax Day
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 931
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Лукьянова Е.Г.
+            [EMAIL] => mukucer2006@yandex.ru
+            [PHONE] => 79150986603
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 3000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1944753742.2980250287.1551424637
+    [YANDEX] => 1551424640302867874
+    [GOOGLE] => GA1.2.1175245587.1551424640
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 3000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 932
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Миль Елена Владимировна
+            [EMAIL] => pulia_2000@mail.ru
+            [PHONE] => 79263414950
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 6000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1945411400.2987384665.1551620215
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 6000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 933
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Никитин Дмитрий Валерьевич
+            [EMAIL] => dmitry.n777@gmail.com
+            [PHONE] => 79773372777
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1949989182.2988329737.1551640438
+    [YANDEX] => 1551640348117767541
+    [GOOGLE] => GA1.2.1851375578.1551640347
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 934
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Милашевич Марина Михайловна 
+            [EMAIL] => komari7071@gmail.com
+            [PHONE] => 79031581221
+            [ADDRESS] => Москва Бульвар генерала Карбышева д.15 кв. 101
+        )
+
+    [PRICE] => 17500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1950001678.2989272725.1551682972
+    [YANDEX] => 1551640929621938949
+    [GOOGLE] => GA1.2.510625943.1551640930
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 5.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 935
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бабкина Валерия Дмитриевна
+            [EMAIL] => babkina-vd94@mail.ru
+            [PHONE] => 79104119468
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 42000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1850037536.2990520941.1551701638
+    [YANDEX] => 1547637583213516788
+    [GOOGLE] => GA1.2.981613913.1551701638
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат с доставкой
+                    [PRICE] => 42000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 936
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бабкина Валерия Дмитриевна
+            [EMAIL] => babkina-vd94@mail.ru
+            [PHONE] => 79104119468
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 95000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1850037536.2990520941.1551701638
+    [YANDEX] => 1547637583213516788
+    [GOOGLE] => GA1.2.981613913.1551701638
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат с доставкой
+                    [PRICE] => 95000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 937
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Дороган Ирина
+            [EMAIL] => irishka_994@mail.ru
+            [PHONE] => 79165719330
+            [ADDRESS] => Ленинградский пр, 45 к2 кв 116
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1952116616.2991687351.1551721941
+    [YANDEX] => 1551721941167213928
+    [GOOGLE] => GA1.2.570652327.1551721941
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 938
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Донской Александр Михайлович
+            [EMAIL] => alexander.donskoy@grobgroup.com
+            [PHONE] => 79295197859
+            [ADDRESS] => Коровинское шоссе 10с2 офис 22
+        )
+
+    [PRICE] => 20800
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1952816320.2992773521.1551767238
+    [YANDEX] => 15517672371037956891
+    [GOOGLE] => GA1.2.47238766.1551767237
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 2.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => 8 Марта (подарочная коробка + сертификат)
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 2.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 939
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Цыкунов Артур Геннадьевич
+            [EMAIL] => tsykunovartur@gmail.com
+            [PHONE] => 79671487169
+            [ADDRESS] => Ленинградский проспект 39 строение 79- офис Mail.ru
+        )
+
+    [PRICE] => 7500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1758571836.2993206685.1551774223
+    [YANDEX] => 1543490138216123831
+    [GOOGLE] => GA1.2.167325532.1551774223
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Оздоровление и релаксация
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => 8 Марта (подарочная коробка + сертификат)
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 940
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Павлова Алла Сергеевна 
+            [EMAIL] => a.s.pavlova@yandex.ru
+            [PHONE] => 79031006292
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1945105598.2993392957.1551777056
+    [YANDEX] => 1551433828781132632
+    [GOOGLE] => GA1.2.1161019825.1551777057
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 941
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Степанова Айына Александровна
+            [EMAIL] => aina6794@mail.ru
+            [PHONE] => 79163015627
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1954090980.2994797939.1551799614
+    [YANDEX] => 1551799612146807779
+    [GOOGLE] => GA1.2.347042064.1551799612
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 942
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ксензова Дарья Романовна
+            [EMAIL] => Dashkoooo51@gmail.com
+            [PHONE] => 79854804151
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1953370490.2994768421.1551799034
+    [YANDEX] => 1551781095441766194
+    [GOOGLE] => GA1.2.2080480462.1551781095
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник
+                    [PRICE] => 2500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 943
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Улановская Алиса Леонидовна
+            [EMAIL] => ulanovskaya.a@gmail.com
+            [PHONE] => 79160263793
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 3500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1954422588.2995315617.1551810235
+    [YANDEX] => 155181023592996792
+    [GOOGLE] => GA1.2.1261068317.1551810235
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 944
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Беляева Владислава Александровна
+            [EMAIL] => nataliamb@bk.ru
+            [PHONE] => 79153307418
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1940641366.2996459293.1551856150
+    [YANDEX] => 1551261243715272624
+    [GOOGLE] => GA1.2.1526803564.1551856149
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник
+                    [PRICE] => 2500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 945
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Заховаев Даниил Дмитриевич
+            [EMAIL] => danieldmusic@gmail.com
+            [PHONE] => 79099987049
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1955625550.2997210053.1551868194
+    [YANDEX] => 155186819261954486
+    [GOOGLE] => GA1.2.1277582412.1551868192
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 946
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ионин Севастьян Сергеевич
+            [EMAIL] => Mail.93@inbox.ru
+            [PHONE] => 79055040407
+            [ADDRESS] => Mail.93@inbox.ru
+        )
+
+    [PRICE] => 8500
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1956167578.2998068591.1551882182
+    [YANDEX] => 1551882181315628506
+    [GOOGLE] => GA1.2.2126837097.1551882181
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => 8 Марта (подарочная коробка + сертификат)
+                    [PRICE] => 500.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее свидание по-тайски
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [2] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 947
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Готта Анна Язамировна
+            [EMAIL] => anna.gotta@gmail.com
+            [PHONE] => 79035211307
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1576257820.2998537855.1551891157
+    [YANDEX] => 149069331950095600
+    [GOOGLE] => GA1.2.2123525583.1551680488
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 948
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Готта Анна Язамировна
+            [EMAIL] => anna.gotta@gmail.com
+            [PHONE] => 79035211307
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1576257820.2998537855.1551891157
+    [YANDEX] => 149069331950095600
+    [GOOGLE] => GA1.2.2123525583.1551680488
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 949
+    [ORDER_PROP] => Array
+        (
+            [NAME] => 79035211307
+            [EMAIL] => Anna.gotta@gmail.com
+            [PHONE] => 79035211307
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1583663150.2998559943.1551891603
+    [YANDEX] => 1535974748714896111
+    [GOOGLE] => GA1.2.1889081121.1551891602
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 950
+    [ORDER_PROP] => Array
+        (
+            [NAME] => 79035211307
+            [EMAIL] => Anna.gotta@gmail.com
+            [PHONE] => 79035211307
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1583663150.2998559943.1551891603
+    [YANDEX] => 1535974748714896111
+    [GOOGLE] => GA1.2.1889081121.1551891602
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 951
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Береславец Анна
+            [EMAIL] => anessbk@mail.ru
+            [PHONE] => 79629010501
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1957351456.2999936889.1551943944
+    [YANDEX] => 1551943944642093877
+    [GOOGLE] => GA1.2.1203769456.1551943944
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-свидание DeLuxe
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 952
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сорокин Дмитрий
+            [EMAIL] => dsorokin.msk@gmail.com
+            [PHONE] => 79032906898
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1957326250.2999895743.1551943198
+    [YANDEX] => 1551943198712875595
+    [GOOGLE] => GA1.2.1115481685.1551943198
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 953
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сорокин Дмитрий
+            [EMAIL] => dsorokin.msk@gmail.com
+            [PHONE] => 79032906898
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1957326250.2999895743.1551943198
+    [YANDEX] => 1551943198712875595
+    [GOOGLE] => GA1.2.1115481685.1551943198
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 954
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сорокин Дмитрий
+            [EMAIL] => dsorokin.msk@gmail.com
+            [PHONE] => 79032906898
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1957326250.2999895743.1551943198
+    [YANDEX] => 1551943198712875595
+    [GOOGLE] => GA1.2.1115481685.1551943198
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 955
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Стручкова Ирина Николаевна
+            [EMAIL] => ira9ctpy4@rambler.ru
+            [PHONE] => 79168699395
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1956835276.3000077117.1551946431
+    [YANDEX] => 15519046021004767712
+    [GOOGLE] => GA1.2.136467937.1551904601
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-свидание DeLuxe
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 956
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Зоя Ким
+            [EMAIL] => Nas46259@yandex.ru
+            [PHONE] => 79168139927
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Морской отдых
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 957
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Александр
+            [EMAIL] => bankrotstvomoscow@yandex.ru
+            [PHONE] => 79168139927
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Шоколадное наслаждение!
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 958
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Мазитов Антон Андреевич
+            [EMAIL] => ananma@mail.ru
+            [PHONE] => 79629105444
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1957155580.3000286299.1551950067
+    [YANDEX] => 15519373781017561334
+    [GOOGLE] => GA1.2.110142436.1551937378
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник
+                    [PRICE] => 2500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 959
+    [ORDER_PROP] => Array
+        (
+            [NAME] => елена жукова 
+            [EMAIL] => zhukova.event@gmail.com
+            [PHONE] => 79162615536
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1957783682.3000632249.1551956256
+    [YANDEX] => 155195625871257441
+    [GOOGLE] => GA1.2.316707524.1551956258
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 960
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Иванникова Татьяна
+            [EMAIL] => shevochka@gmail.com
+            [PHONE] => 79104998494
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1955916336.3001184629.1551966891
+    [YANDEX] => 1551875517842405069
+    [GOOGLE] => GA1.2.1799342752.1551966890
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 10000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 961
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Проничева Ольга 
+            [EMAIL] => ovpronicheva@gmail.com
+            [PHONE] => 79688311261
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1958222862.3001333473.1551970104
+    [YANDEX] => 1551970095210407380
+    [GOOGLE] => GA1.2.1465791275.1551970095
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 962
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Радовский Игорь Анисимович
+            [EMAIL] => Radovskiy_ia@mail.ru
+            [PHONE] => 79261044217
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1958494866.3002509871.1552022338
+    [YANDEX] => 15519800111029082346
+    [GOOGLE] => GA1.2.1184686492.1551980011
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 963
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Проскурина Наталья Юрьевна
+            [EMAIL] => n-proskurina@yandex.ru
+            [PHONE] => 9055875422
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 9900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1958583846.3002537439.1552023533
+    [YANDEX] => 1551983616254223701
+    [GOOGLE] => GA1.2.1389050225.1551983616
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Идеальный подарок на 8 Марта! SPA-сертификат на 12 000 руб.
+                    [PRICE] => 9900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 964
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Анисимова Елизавета Андреевна
+            [EMAIL] => anisimovaliza@gmail.com
+            [PHONE] => 79685878717
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 14000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1959263484.3002961839.1552036213
+    [YANDEX] => 1552036215507096503
+    [GOOGLE] => GA1.2.107427113.1552036215
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 965
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бархударьян Татьяна Геннадьевна
+            [EMAIL] => artem20007@yandex.ru
+            [PHONE] => 79859667424
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1959439160.3003466315.1552048899
+    [YANDEX] => 1552043049998621725
+    [GOOGLE] => GA1.2.1537458201.1552043049
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Морской отдых
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 966
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Мановицкая Валерия Андреевна
+            [EMAIL] => lera.manovitzkaya@mail.ru
+            [PHONE] => 79264907165
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1960890864.3005467123.1552122803
+    [YANDEX] => 1552122803402636029
+    [GOOGLE] => GA1.2.1642015756.1552122803
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Новогоднее SPA-свидание
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 967
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Юрченко Виктория Владимировна
+            [EMAIL] => jurgan8686@mail.ru
+            [PHONE] => 79169101184
+            [ADDRESS] => новокузнецкая д. 23 стр. 1
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => доставка желательна 13.03.2019 с 9 до 19 часов
+    [COMAGIC] => 1964977272.3011813713.1552301057
+    [YANDEX] => 155230104559460963
+    [GOOGLE] => GA1.2.1657299392.1552301042
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Relax Day
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 968
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Фомина Ирина Игоревна 
+            [EMAIL] => ira.fomi2012@yandex.ru
+            [PHONE] => 79856482534
+            [ADDRESS] => Ул. Госпитальная площадь 3Ас2 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1967443890.3015709039.1552389900
+    [YANDEX] => 155238989655996759
+    [GOOGLE] => GA1.2.1497031013.1552389897
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 969
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Фомина Ирина Игоревна 
+            [EMAIL] => ira.fomi2012@yandex.ru
+            [PHONE] => 79856482534
+            [ADDRESS] => Ул. Госпитальная площадь 3Ас2 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1967443890.3015709039.1552389900
+    [YANDEX] => 155238989655996759
+    [GOOGLE] => GA1.2.1497031013.1552389897
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 970
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Климакина Марина Николаевна
+            [EMAIL] => Klimakina@gmail.com
+            [PHONE] => 79262458951
+            [ADDRESS] => Братиславская 10,120
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 1972101158.3023148633.1552562128
+    [YANDEX] => 1552560123986523179
+    [GOOGLE] => GA1.2.2009623615.1552560123
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Алтайский SPA для двоих 2019
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 971
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бабкина Валерия Дмитриевна
+            [EMAIL] => Babkina-vd94@mail.ru
+            [PHONE] => 79104119468
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 93000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1974737806.3027147593.1552654752
+    [YANDEX] => 1552654752277898977
+    [GOOGLE] => GA1.2.960535898.1552654752
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 93000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 972
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Бравая Яна Олеговна
+            [EMAIL] => jassy.klarson@gmail.com
+            [PHONE] => 79645566511
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1975091414.3027702253.1552664696
+    [YANDEX] => 1552664692271651452
+    [GOOGLE] => GA1.2.972400695.1552664691
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 973
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Кубаткина Татьяна
+            [EMAIL] => tkubatkina@gmail.com
+            [PHONE] => 79265217934
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 17500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => на 17 марта на 10:00
+    [COMAGIC] => 1966287012.3029498657.1552727381
+    [YANDEX] => 1552337643939587683
+    [GOOGLE] => GA1.2.1754608457.1552727379
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 5.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 974
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Кубаткина Татьяна
+            [EMAIL] => tkubatkina@gmail.com
+            [PHONE] => 79265217934
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 17500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => на 17 марта на 10:00
+    [COMAGIC] => 1966287012.3029498657.1552727381
+    [YANDEX] => 1552337643939587683
+    [GOOGLE] => GA1.2.1754608457.1552727379
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 5.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 975
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Test test Test
+            [EMAIL] => sergeydrum@yandex.ru
+            [PHONE] => 79150353809
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 10
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1578049458.3034500573.1552858863
+    [YANDEX] => 1532502387981117359
+    [GOOGLE] => GA1.2.199937033.1552858862
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 10.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 976
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Test test Test
+            [EMAIL] => sergeydrum@yandex.ru
+            [PHONE] => 79150353809
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 1
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1578049458.3034500573.1552858863
+    [YANDEX] => 1532502387981117359
+    [GOOGLE] => GA1.2.199937033.1552858862
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 1.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 977
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Test test Test
+            [EMAIL] => sergeydrum@yandex.ru
+            [PHONE] => 79150353809
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 1
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1578049458.3034500573.1552858863
+    [YANDEX] => 1532502387981117359
+    [GOOGLE] => GA1.2.199937033.1552858862
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 1.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 978
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Львовская Кира Анатольевна
+            [EMAIL] => talalatik@mail.ru
+            [PHONE] => 79036184997
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 6000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Получить в салоне
+    [COMMENT] => 0
+    [COMAGIC] => 1968629948.3039993505.1552991295
+    [YANDEX] => 1516652503570651469
+    [GOOGLE] => GA1.2.1359488241.1552988379
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Оздоровление и релаксация
+                    [PRICE] => 6000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить в салоне
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 979
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Елизарова Екатерина Ильинична 
+            [EMAIL] => Murkatrina@inbox.ru
+            [PHONE] => 79778233588
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 13000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [COMAGIC] => 1982882548.3043028755.1553067655
+    [YANDEX] => 1552987431745568059
+    [GOOGLE] => GA1.2.777346611.1552987431
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-свидание DeLuxe
+                    [PRICE] => 13000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 980
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Воронина Екатерина Игоревна
+            [EMAIL] => e-voronina@yandex.ru
+            [PHONE] => 79684737918
+            [ADDRESS] => Ст м Технопарк Проспект Андропова, 18к1
+        )
+
+    [PRICE] => 17500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Пожалуйста, оформите в чёрном варианте «для тебя» и ничего не вписывайте, я сама впишу кому 
+    [COMAGIC] => 1988093762.3047928681.1553174063
+    [YANDEX] => 1553174062107260242
+    [GOOGLE] => GA1.2.2030098950.1553174062
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 5.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 981
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Сидельникова Елена Александровна
+            [EMAIL] => sea2573@mail.ru
+            [PHONE] => 79859737953
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 22900
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Дизайн сертификата &quot;Сертификат Для тебя&quot;
+
+Сертификат на имя Сидельникова Андрея Михайловича с открытой датой
+    [COMAGIC] => 1989888864.3050877045.1553250722
+    [YANDEX] => 1553249110844512468
+    [GOOGLE] => GA1.2.107905214.1553249110
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Баня по-царски
+                    [PRICE] => 22900.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 982
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Латыева Наталия
+            [EMAIL] => natalia.dolotova@gmail.com
+            [PHONE] => 79267020244
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 12500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Запись на 11:00 6 апреля. Созванивались в 11:11 28 марта
+    [COMAGIC] => 1997808532.3071112215.1553760897
+    [YANDEX] => 1553581612632200944
+    [GOOGLE] => GA1.2.1756396766.1553752345
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник
+                    [PRICE] => 2500.0000
+                    [QUANTITY] => 5.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 983
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Алексей Пальчиков
+            [EMAIL] => Palchikov_Alexey@shure.com
+            [PHONE] => 79852771919
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 12300
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => для Ангелики Эрнфельт, три сеанса - массаж &quot;Спорт&quot; у Марии Майоровой.
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Электронный сертификат
+                    [PRICE] => 12300.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 984
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Щербакова Элеонора Владимировна
+            [EMAIL] => el-4ik@mail.ru
+            [PHONE] => 79035906296
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 17500
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Пожалуйста, мероприятие 27.04.2019г. в 14 .30 (ранее просила в 13 ч.) 
+    [COMAGIC] => 1991998968.3085940107.1554131548
+    [YANDEX] => 1553338489545944495
+    [GOOGLE] => GA1.2.1057729155.1554131548
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 5.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 985
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Соловьева Татьяна Анатольевна
+            [EMAIL] => Solovei75@mail.ru
+            [PHONE] => 79166064839
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Для Катерины
+    [COMAGIC] => 2016852102.3095329987.1554365024
+    [YANDEX] => 1554303168299750796
+    [GOOGLE] => GA1.2.806793304.1554303168
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 986
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Аслан
+            [EMAIL] => aberov@mail.ru
+            [PHONE] => 79104820873
+            [ADDRESS] => Огородный проезд 20 стр 1
+        )
+
+    [PRICE] => 7000
+    [PAY_SYSTEM] => Наличный расчет
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 2019183106.3096982213.1554390402
+    [YANDEX] => 1554390402668844412
+    [GOOGLE] => GA1.2.293046243.1554390402
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Морской отдых
+                    [PRICE] => 7000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 987
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Петрова Мария Александровна 
+            [EMAIL] => mar_petrova@mail.ru
+            [PHONE] => 79151441305
+            [ADDRESS] => Г. Королев
+        )
+
+    [PRICE] => 5000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => 0
+    [COMAGIC] => 2021054434.3099898119.1554466027
+    [YANDEX] => 155446602745925884
+    [GOOGLE] => GA1.2.284501066.1554466027
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Сертификат с доставкой
+                    [PRICE] => 5000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 988
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Вартапетян Мамикон Тигранович
+            [EMAIL] => mamikon@gmail.com
+            [PHONE] => 79261246148
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 14000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Есть бронь на 21 апреля (14:00)
+    [COMAGIC] => 2021157350.3100060387.1554468727
+    [YANDEX] => 1554468727445017116
+    [GOOGLE] => GA1.2.393950525.1554468727
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 989
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Вартапетян Мамикон Тигранович
+            [EMAIL] => mamikon@gmail.com
+            [PHONE] => 79261246148
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 14000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => Есть резерв на 21 апреля (14:00)
+    [COMAGIC] => 2021157350.3100060387.1554468727
+    [YANDEX] => 1554468727445017116
+    [GOOGLE] => GA1.2.393950525.1554468727
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => SPA-девичник NEW
+                    [PRICE] => 3500.0000
+                    [QUANTITY] => 4.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 990
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Ершова Наталья Александровна
+            [EMAIL] => Tawa-8@yandex.ru
+            [PHONE] => 79163495882
+            [ADDRESS] => Москва, ул. Каланчевская, 24. 
+        )
+
+    [PRICE] => 8000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Доставка курьером в пределах МКАД
+    [COMMENT] => Добрый день, сертификат хотели бы в черном оформлении. Контактный телефон получателя - 89262703136 Наталья. Жду Вашего звонка по подтверждению заказа. 
+    [COMAGIC] => 1951397816.3108514949.1554707183
+    [YANDEX] => 1551702221281401118
+    [GOOGLE] => GA1.2.1443963641.1554707180
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление MAXIMUM
+                    [PRICE] => 8000.0000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Доставка курьером в пределах МКАД
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [ID] => 991
+    [ORDER_PROP] => Array
+        (
+            [NAME] => Игумнов Александр Сергеевич
+            [EMAIL] => t89035624252@gmail.com
+            [PHONE] => 79035624252
+            [ADDRESS] => 
+        )
+
+    [PRICE] => 6000
+    [PAY_SYSTEM] => Банковские карты
+    [DELIVERY] => Получить по E-mail
+    [COMMENT] => 0
+    [ITEMS] => Array
+        (
+            [0] => Array
+                (
+                    [PRODUCT_NAME] => Полное расслабление
+                    [PRICE] => 6000
+                    [QUANTITY] => 1.0000
+                )
+
+            [1] => Array
+                (
+                    [PRODUCT_NAME] => Получить по E-mail
+                    [PRICE] => 0
+                    [QUANTITY] => 1
+                )
+
+        )
+
+)
